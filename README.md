@@ -5,22 +5,21 @@ In the "Theft Alert" IoT-based project, you used a motion detection system with 
 This project focuses on developing an efficient and scalable smart security system using motion sensors and an ESP32 microcontroller. The system is designed to detect unauthorized movement with passive infrared (PIR) sensors, which are sensitive to infrared radiation from warm objects such as humans and animals. Upon detecting motion, the PIR sensors send a signal to the ESP32 microcontroller. The ESP32, leveraging its integrated Wi-Fi capability, connects to the internet and uses the Blynk app to send real-time email notifications to the user’s smartphone. This ensures immediate alerts about any potential security breaches. Emphasizing simplicity and cost-effectiveness, the system provides a reliable solution for enhancing security in homes and small businesses, with potential for future upgrades like camera integration.
 
 #Components Used
-ESP32 Microcontroller
-![image](https://github.com/user-attachments/assets/09e0470f-99e7-4a87-b1af-dd15bd799af8)
-Motion Sensor
-![image](https://github.com/user-attachments/assets/6b5148e1-3496-43db-b556-86a6390db09a)
-Breadboard
-![image](https://github.com/user-attachments/assets/42f49ae0-aaa3-4a1e-a18b-3805d6e10099)
-USB B type Data Cable
-![image](https://github.com/user-attachments/assets/6d3e6048-3cee-466d-a620-174df835604c)
-Jumper Wire 
-![image](https://github.com/user-attachments/assets/590abf2f-7ce0-412e-9907-24fb7153ed38)
+
+
+
+ESP32 Microcontroller![image](https://github.com/user-attachments/assets/09e0470f-99e7-4a87-b1af-dd15bd799af8)
+Motion Sensor![image](https://github.com/user-attachments/assets/6b5148e1-3496-43db-b556-86a6390db09a)
+Breadboard![image](https://github.com/user-attachments/assets/42f49ae0-aaa3-4a1e-a18b-3805d6e10099)
+USB B type Data Cable![image](https://github.com/user-attachments/assets/6d3e6048-3cee-466d-a620-174df835604c)
+Jumper Wire ![image](https://github.com/user-attachments/assets/590abf2f-7ce0-412e-9907-24fb7153ed38)
 
 #Arrangement and the outcome
-the below image showsthe arranegment of the project 
-![image](https://github.com/user-attachments/assets/cdc7c665-f97d-4d8d-bf4c-534fcf03cb17)
+the below image showsthe arranegment of the project ![image](https://github.com/user-attachments/assets/cdc7c665-f97d-4d8d-bf4c-534fcf03cb17)
 
 the below 2 figures the defining about the the alert mail and alert in BLYNK cloud based platform
+
+
 ![image](https://github.com/user-attachments/assets/677bf595-2c24-40bf-8ab8-f46be8196b24)
 ![image](https://github.com/user-attachments/assets/905c8875-cd76-4969-9e04-9ce36f73a375)
 
