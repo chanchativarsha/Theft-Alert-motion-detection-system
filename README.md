@@ -23,7 +23,9 @@ the below 2 figures the defining about the the alert mail and alert in BLYNK clo
 ![image](https://github.com/user-attachments/assets/677bf595-2c24-40bf-8ab8-f46be8196b24)
 ![image](https://github.com/user-attachments/assets/905c8875-cd76-4969-9e04-9ce36f73a375)
 
-#Woeking of the project 
+#Working of the project
+
+
 This project focuses on developing an efficient and scalable smart security system using motion sensors and an ESP32 microcontroller. The system is designed to detect unauthorized movement with passive infrared (PIR) sensors, which are sensitive to infrared radiation from warm objects such as humans and animals. Upon detecting motion, the PIR sensors send a signal to the ESP32 microcontroller. The ESP32, leveraging its integrated Wi-Fi capability, connects to the internet and uses the Blynk app to send real-time email notifications to the user’s smartphone. This ensures immediate alerts about any potential security breaches. Emphasizing simplicity and cost-effectiveness, the system provides a reliable solution for enhancing security in homes and small businesses, with potential for future upgrades like camera integration.
 
 #Applications
